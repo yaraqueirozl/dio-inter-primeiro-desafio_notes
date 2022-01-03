@@ -45,3 +45,41 @@ var nome
 var sobrenome
 
 “O seu nome é “ + nome “ e o seu sobrenome é “ + sobrenome
+
+## Aula 06 - Estrutura de repetição
+
+Dentro da lógica de programação, é uma estrutura que permite executar mais de uma vez um comando ou conjunto de comandos, de acordo com uma condição ou um contador.
+
+## Aula 07 - Linguagens de programação e Portugol
+
+#Alto nível: cuja sintaxe se aproxima da nossa linguagem e se distancia da linguagem da máquina (C, PHP, Javascript, C#, C++, Python)
+
+#Baixo nível: se aproxima mais da linguagem das máquinas (Assembly)
+
+#Compiladas: É uma linguagem de programação em que o código fonte é executado diretamente pelo sistema operacional ou pelo processador, após ser traduzido por meio de uma processo chamado compilação (C#, Visual Basics, C++, Delphi) ;
+
+#interpretadas: é uma linguagem de programação em que o código fonte é executado por um programa de computador chamado interpretador, que me seguida é executado pelo sistema operacional ou processador (Javascript, PHP, Phyton);
+
+## Aula 08 - desvios condicionais e boas práticas na programação
+
+“se” / “if”
+
+a condição a ser testada entre parenteses e as instruções que devem ser executadas entre chaves caso o desvio seja verdadeiro;
+
+se-senao: condição falsa
+
+caso: este comando é similar aos comandos se e senao, e reduz a complexidade na escolha de diversas opções. Apesar de suas similaridades com o se, ele possui algumas diferenças. neste comando nãoé possível o uso de operadores lógicos, ele apenas trabalha com valores definidos;
+
+## Aula 09 - laços de repetição em Portugol
+
+## Aula 10 - Matrizes e variáveis
+
+Uma matriz é uma coleção de variáveis de mesmo tipo, acessíveis com um único nome e armazenados contiguamente na memória
+
+A individuialização de cada variável de um vetor é feita através do uso de índices;
+
+Os vetores são matrizes de uma só dimensão;
+
+cadeia Vetor[5] // declara  um vetor de 5 posições
+
+cadeia Matriz[5][3] // declara uma matriz de 5 linhas e 3 colunas
